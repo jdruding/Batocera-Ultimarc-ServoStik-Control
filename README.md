@@ -8,7 +8,7 @@ All credit goes to [u/dobat](https://www.reddit.com/user/dotbat/) on Reddit from
 
 
 
-#Installation
+#  Installation
 
 1.  Copy all files to the data share directory on your Batocera device.
 2.  You must make the restrictor-start.sh script executable, to do this, SSH into your device
@@ -18,5 +18,5 @@ All credit goes to [u/dobat](https://www.reddit.com/user/dotbat/) on Reddit from
 6.  Enter this command and hit enter:
 `chmod +x /userdata/system/configs/emulationstation/scripts/game-start/restrictor-start.sh`
 
-#Adding or Deleting Games to the 4 Way Mode.
+# Adding or Deleting Games to the 4 Way Mode.
 
