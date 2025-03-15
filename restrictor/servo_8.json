@@ -1,0 +1,9 @@
+{
+  "version" : 2,
+  "product" : "servostik",
+  "config" : {
+    "debounce" : "standard",
+    "paclink" : "disabled"
+  },
+  "switch": 8
+}
