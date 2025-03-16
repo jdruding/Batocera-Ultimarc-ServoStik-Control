@@ -1,7 +1,3 @@
-Here’s your updated README with the **"Details of How This Functions"** section appended and improved for clarity, formatting, and readability:
-
----
-
 # Ultimarc ServoStik Auto Configuration for Batocera  
 
 ## Compatible With:  
@@ -175,11 +171,3 @@ chmod +x /userdata/system/configs/emulationstation/scripts/game-start/restrictor
 For additional support or questions, feel free to open an **Issue** on GitHub or check out the original Reddit post by **u/dobat**.  
 
 ---
-
-### 🔹 Improvements & Enhancements in this Version  
-- **Clearer formatting** for better readability.  
-- **Proper file path references** to avoid confusion.  
-- **Added explanations** for how and why each step is needed.  
-- **Code blocks formatted correctly** for better understanding.  
-
-This should make your README much easier to follow and use. Let me know if you need any further refinements! 🚀
