@@ -11,7 +11,7 @@ http://adb.arcadeitalia.net/lista_mame.php
 
 I have not personally verified this list so there may be errors. You can add or remove files from the configuration per the instructions below. 
 
-All credit goes to [u/dobat](https://www.reddit.com/user/dotbat/) on Reddit from [this post](https://www.reddit.com/r/batocera/comments/1czqurz/tutorial_ultimarc_servostik_automatically_change/?show=original).
+All credit for figuring this out and creating these scripts goes to [u/dobat](https://www.reddit.com/user/dotbat/) on Reddit from [this post](https://www.reddit.com/r/batocera/comments/1czqurz/tutorial_ultimarc_servostik_automatically_change/?show=original).
 
 
 
