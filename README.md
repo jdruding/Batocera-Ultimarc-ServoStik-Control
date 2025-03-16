@@ -6,7 +6,9 @@ For use with:
 -  [Ultimarc ServoStik Control Board](https://www.ultimarc.com/arcade-controls/joysticks/servostik-control-board/)
 
 This repository provides the scripts and files necessary to automatically configure an Ultimarc ServoStik to either 4 or 8 way, depending on the game.  Games are assumed to be 8 way unless they are added to the configuration file.  The configuration files for MAME and FBNEO have already been prepopulated via a query on this webpage:
+
 http://adb.arcadeitalia.net/lista_mame.php
+
 I have not personally verified this list so there may be errors. You can add or remove files from the configuration per the instructions below. 
 
 All credit goes to [u/dobat](https://www.reddit.com/user/dotbat/) on Reddit from [this post](https://www.reddit.com/r/batocera/comments/1czqurz/tutorial_ultimarc_servostik_automatically_change/?show=original).
