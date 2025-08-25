@@ -15,7 +15,7 @@ By default, all games are assumed to use **8-way mode** unless explicitly listed
 
 ⚠ **Note:** I have not personally verified this list, so there may be errors. You can manually add or remove games from the configuration following the instructions below.  
 
-🚀 **Credit:** Full credit for discovering this method and creating these scripts goes to **u/dobat** on Reddit from [this post](#).  
+🚀 **Credit:** Full credit for discovering this method and creating these scripts goes to **u/dotbat** on Reddit from [this post.](https://www.reddit.com/r/batocera/comments/1czqurz/tutorial_ultimarc_servostik_automatically_change/)
 
 ---
 
