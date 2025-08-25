@@ -59,7 +59,7 @@ These files **do not** have extensions but are simple text files.
 
 ## Details of How This Works  
 
-💡 **Courtesy of u/dobat on Reddit**  
+💡 **Courtesy of u/dotbat on Reddit**  
 
 ### Accessing the File System in Batocera  
 
